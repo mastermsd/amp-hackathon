@@ -1,0 +1,25 @@
+{
+  "name": "amp-hackaton",
+  "version": "0.0.0",
+  "description": "amp-hackaton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermsd/amp-hackathon.git"
+  },
+  "keywords": [
+    "amp",
+    "hackathon",
+    "google",
+    "2019"
+  ],
+  "author": "Davy Rori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastermsd/amp-hackathon/issues"
+  },
+  "homepage": "https://github.com/mastermsd/amp-hackathon#readme"
+}
